@@ -99,8 +99,8 @@ Result is displayed to the user.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfebcab4-7638-4760-ac84-64440f978f02" />
 
 
-##👤 Author
-Yug Jasoliya
+## 👤 Author
+**Yug Jasoliya**
 📧 [yugjasoliya49@gmail.com]
 🔗 linkdin:https://www.linkedin.com/in/yug-jasoliya-69691126b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
