@@ -80,26 +80,26 @@ python train_model.py
 python app.py
 Visit http://127.0.0.1:5000 in your browser.
 
-🧪 Dataset Format
+##🧪 Dataset Format
 CSV file inside /dataset/ folder (e.g., career_data.csv):
 
 GPA,Skills,Interest,Recommended_Career
 8.1,Python;ML,AI,Machine Learning Engineer
 7.5,Java;SQL,Backend,Backend Developer
 
-🧠 How It Works
+##🧠 How It Works
 
 User submits GPA, skills, and interests via the form.
 Data is passed to the backend ML model.
 Trained Decision Tree predicts the best-fit career.
 Result is displayed to the user.
 
-✨ Screenshots 
+##✨ Screenshots 
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dfebcab4-7638-4760-ac84-64440f978f02" />
 
 
-👤 Author
+##👤 Author
 Yug Jasoliya
 📧 [yugjasoliya49@gmail.com]
 🔗 linkdin:https://www.linkedin.com/in/yug-jasoliya-69691126b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
