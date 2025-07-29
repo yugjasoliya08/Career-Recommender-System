@@ -1,0 +1,151 @@
+GPA,Skills,Interest,Recommended_Career
+5.67,SQL,AI,Machine Learning Engineer
+8.02,AWS,Mobile,Android Developer
+8.5,HTML,Security,Cybersecurity Analyst
+9.52,Photoshop,Mobile,Android Developer
+9.72,Pandas,Data,Data Analyst
+9.51,CSS,Backend,Backend Developer
+8.06,Pandas,Mobile,Android Developer
+7.03,Excel,CP,Competitive Programmer
+6.16,React,Mobile,Android Developer
+7.45,Java,Frontend,Frontend Developer
+6.97,Django,Design,UI/UX Designer
+7.7,Django,Gaming,Game Developer
+8.47,Node.js,Business,Business Analyst
+8.73,Pandas,Design,UI/UX Designer
+8.59,Matplotlib,Mobile,Android Developer
+8.97,Figma,AI,Machine Learning Engineer
+5.51,HTML,Backend,Backend Developer
+9.83,Docker,CP,Competitive Programmer
+6.61,Docker,Cloud,Cloud Engineer
+5.58,SQL,AI,Machine Learning Engineer
+8.64,Kubernetes,Web,Full Stack Developer
+9.43,JavaScript,Security,Cybersecurity Analyst
+8.62,Django,Data,Data Analyst
+6.98,TensorFlow,Cloud,Cloud Engineer
+9.18,Flask,Data,Data Analyst
+8.03,SQL,Mobile,Android Developer
+8.67,React,DevOps,DevOps Engineer
+9.82,Docker,Mobile,Android Developer
+9.9,Pandas,Gaming,Game Developer
+9.6,Python,Web,Full Stack Developer
+8.23,Bootstrap,Cloud,Cloud Engineer
+6.24,Python,Mobile,Android Developer
+6.88,Unity,Mobile,Android Developer
+6.15,Figma,Web,Full Stack Developer
+8.06,React,Cloud,Cloud Engineer
+6.7,SQL,Security,Cybersecurity Analyst
+9.8,Flask,Security,Cybersecurity Analyst
+8.84,Django,Frontend,Frontend Developer
+5.73,Docker,Mobile,Android Developer
+7.15,Docker,Data,Data Analyst
+9.88,Python,Business,Business Analyst
+9.46,C++,AI,Machine Learning Engineer
+7.38,NumPy,Gaming,Game Developer
+8.63,Figma,Frontend,Frontend Developer
+8.68,Python,Design,UI/UX Designer
+9.36,AWS,Security,Cybersecurity Analyst
+9.69,Excel,Security,Cybersecurity Analyst
+6.4,Django,Business,Business Analyst
+8.41,CSS,Mobile,Android Developer
+6.08,Figma,Web,Full Stack Developer
+5.81,Django,Mobile,Android Developer
+7.2,Python,CP,Competitive Programmer
+6.26,Pandas,Design,UI/UX Designer
+7.99,Docker,CP,Competitive Programmer
+8.16,TensorFlow,Security,Cybersecurity Analyst
+5.62,React,Gaming,Game Developer
+7.48,AWS,Gaming,Game Developer
+9.56,AWS,Gaming,Game Developer
+6.9,Node.js,Cloud,Cloud Engineer
+8.34,JavaScript,Gaming,Game Developer
+5.82,Unity,DevOps,DevOps Engineer
+7.66,HTML,AI,Machine Learning Engineer
+8.78,AWS,AI,Machine Learning Engineer
+9.21,Node.js,Business,Business Analyst
+8.75,SQL,Gaming,Game Developer
+6.87,Docker,Design,UI/UX Designer
+6.08,C++,CP,Competitive Programmer
+7.41,Unity,Mobile,Android Developer
+8.33,JavaScript,Security,Cybersecurity Analyst
+5.68,Node.js,Backend,Backend Developer
+6.81,Unity,Backend,Backend Developer
+6.4,Photoshop,Frontend,Frontend Developer
+6.29,AWS,Mobile,Android Developer
+7.34,Bootstrap,Frontend,Frontend Developer
+6.77,Django,Design,UI/UX Designer
+8.34,Django,Gaming,Game Developer
+7.27,CSS,Cloud,Cloud Engineer
+8.54,JavaScript,Design,UI/UX Designer
+8.32,Unity,Gaming,Game Developer
+7.32,Docker,Mobile,Android Developer
+8.75,SQL,Business,Business Analyst
+5.61,CSS,Security,Cybersecurity Analyst
+6.51,React,Data,Data Analyst
+7.62,Pandas,Business,Business Analyst
+9.93,React,Backend,Backend Developer
+8.96,Photoshop,DevOps,DevOps Engineer
+9.54,Photoshop,Gaming,Game Developer
+6.74,Kubernetes,DevOps,DevOps Engineer
+9.85,Photoshop,Data,Data Analyst
+8.66,Figma,Security,Cybersecurity Analyst
+5.75,NumPy,Data,Data Analyst
+6.67,Node.js,Web,Full Stack Developer
+7.95,Node.js,Frontend,Frontend Developer
+9.04,Bootstrap,Cloud,Cloud Engineer
+7.31,TensorFlow,Business,Business Analyst
+9.45,AWS,Security,Cybersecurity Analyst
+5.72,Docker,Mobile,Android Developer
+8.24,Django,Design,UI/UX Designer
+7.38,Flask,Business,Business Analyst
+9.96,Matplotlib,Business,Business Analyst
+9.19,Excel,Gaming,Game Developer
+8.38,Pandas,AI,Machine Learning Engineer
+6.8,React,Security,Cybersecurity Analyst
+6.61,Excel,Web,Full Stack Developer
+6.94,Node.js,Mobile,Android Developer
+6.57,C++,Web,Full Stack Developer
+9.04,Excel,Backend,Backend Developer
+9.37,TensorFlow,Business,Business Analyst
+9.55,Excel,Cloud,Cloud Engineer
+6.18,NumPy,Frontend,Frontend Developer
+8.87,Unity,Gaming,Game Developer
+6.44,NumPy,AI,Machine Learning Engineer
+7.19,SQL,Design,UI/UX Designer
+6.34,Matplotlib,AI,Machine Learning Engineer
+5.56,Figma,DevOps,DevOps Engineer
+7.4,HTML,Web,Full Stack Developer
+8.33,AWS,Frontend,Frontend Developer
+9.82,HTML,AI,Machine Learning Engineer
+8.39,Figma,CP,Competitive Programmer
+7.71,Photoshop,Business,Business Analyst
+7.83,Python,Frontend,Frontend Developer
+7.92,TensorFlow,DevOps,DevOps Engineer
+9.86,Bootstrap,Business,Business Analyst
+9.43,Excel,Cloud,Cloud Engineer
+8.63,Django,Cloud,Cloud Engineer
+9.58,Docker,Cloud,Cloud Engineer
+6.71,CSS,Business,Business Analyst
+5.63,SQL,Security,Cybersecurity Analyst
+7.92,Matplotlib,Web,Full Stack Developer
+7.41,JavaScript,Gaming,Game Developer
+7.23,CSS,Backend,Backend Developer
+6.63,Bootstrap,Business,Business Analyst
+9.13,React,Frontend,Frontend Developer
+7.48,HTML,DevOps,DevOps Engineer
+5.76,Excel,DevOps,DevOps Engineer
+9.98,Flask,Business,Business Analyst
+8.46,Docker,Web,Full Stack Developer
+8.16,Django,DevOps,DevOps Engineer
+5.79,Pandas,Cloud,Cloud Engineer
+9.28,Pandas,Security,Cybersecurity Analyst
+5.82,C++,Design,UI/UX Designer
+8.79,Java,Data,Data Analyst
+7.28,Unity,Business,Business Analyst
+8.62,JavaScript,CP,Competitive Programmer
+8.17,Python,DevOps,DevOps Engineer
+8.76,Matplotlib,DevOps,DevOps Engineer
+8.39,Flask,Frontend,Frontend Developer
+6.79,Matplotlib,AI,Machine Learning Engineer
+8.94,JavaScript,Cloud,Cloud Engineer
+6.52,C++,AI,Machine Learning Engineer
