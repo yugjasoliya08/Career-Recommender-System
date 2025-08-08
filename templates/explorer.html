@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Explorer</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Poppins', sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: #f0f0f0; padding: 20px; margin: 0; padding-top: 80px; }
+        .navbar {
+            background-color: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(10px);
+            padding: 0 2rem;
+            height: 60px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .navbar .logo { font-weight: 600; font-size: 1.2rem; color: #007BFF; }
+        .navbar .nav-links a { color: #333; text-decoration: none; margin-left: 20px; font-weight: 500; }
+        .navbar .nav-links a.active { color: #007BFF; border-bottom: 2px solid #007BFF; padding-bottom: 5px; }
+        .container { max-width: 900px; margin: 20px auto; background: rgba(0, 0, 0, 0.3); padding: 30px; border-radius: 12px; }
+        h1 { text-align: center; }
+        h3 { text-align: center; margin-top: 30px; }
+        .table { width: 100%; border-collapse: collapse; }
+        .table th, .table td { padding: 12px; text-align: left; border-bottom: 1px solid #444; }
+        .table th { background-color: rgba(0, 123, 255, 0.5); }
+    </style>
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">Career AI 🤖</div>
+        <div class="nav-links">
+            <a href="/">Recommender</a>
+            <a href="/explorer" class="active">Data Explorer</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <h1>📊 Raw Dataset Explorer</h1>
+        <p style="text-align: center;">This page shows a visualization and the raw data used to train the AI model.</p>
+        
+        <div style="text-align: center; margin-bottom: 30px; margin-top: 20px;">
+            <img src="data:image/png;base64,{{ plot_url }}" style="max-width: 100%; border-radius: 8px;">
+        </div>
+        
+        <h3>Raw Data</h3>
+        {{ table|safe }}
+    </div>
+</body>
+</html>

@@ -1,0 +1,178 @@
+GPA,Skills,Interest,Recommended_Career
+8.15,Power BI,Business,Business Analyst
+9.76,Kotlin,Mobile,Android Developer
+6.13,PyTorch,AI,Machine Learning Engineer
+8.88,Vue.js,Frontend,Frontend Developer
+7.62,Ansible,DevOps,DevOps Engineer
+9.03,Unreal Engine,Gaming,Game Developer
+6.45,GCP,Cloud,Cloud Engineer
+8.31,Nmap,Security,Cybersecurity Analyst
+7.18,Adobe XD,Design,UI/UX Designer
+9.66,Go,Backend,Backend Developer
+6.91,React,Web,Full Stack Developer
+8.47,Data Structures,CP,Competitive Programmer
+7.35,Scikit-learn,AI,Machine Learning Engineer
+9.24,Tableau,Business,Business Analyst
+6.58,Android Studio,Mobile,Android Developer
+8.78,Terraform,DevOps,DevOps Engineer
+7.79,Metasploit,Security,Cybersecurity Analyst
+9.16,C#,Gaming,Game Developer
+6.69,Azure,Cloud,Cloud Engineer
+8.37,Sketch,Design,UI/UX Designer
+7.91,Java,Backend,Backend Developer
+9.48,Excel,Data,Data Analyst
+6.08,Kotlin,Mobile,Android Developer
+8.75,PyTorch,AI,Machine Learning Engineer
+7.41,Angular,Frontend,Frontend Developer
+9.62,Jenkins,DevOps,DevOps Engineer
+6.84,Unreal Engine,Gaming,Game Developer
+8.10,AWS,Cloud,Cloud Engineer
+7.27,Wireshark,Security,Cybersecurity Analyst
+9.18,Figma,Design,UI/UX Designer
+6.55,Go,Backend,Backend Developer
+8.92,Vue.js,Web,Full Stack Developer
+7.66,Algorithms,CP,Competitive Programmer
+9.23,Scikit-learn,AI,Machine Learning Engineer
+6.36,Power BI,Business,Business Analyst
+8.71,XML,Mobile,Android Developer
+7.14,Terraform,DevOps,DevOps Engineer
+9.81,Metasploit,Security,Cybersecurity Analyst
+6.46,C#,Gaming,Game Developer
+8.21,GCP,Cloud,Cloud Engineer
+7.54,Sketch,Design,UI/UX Designer
+9.11,Java,Backend,Backend Developer
+6.77,Tableau,Data,Data Analyst
+8.44,TensorFlow,AI,Machine Learning Engineer
+7.06,Angular,Frontend,Frontend Developer
+9.30,Unity,Gaming,Game Developer
+6.98,Azure,Cloud,Cloud Engineer
+8.58,Wireshark,Security,Cybersecurity Analyst
+7.85,Adobe XD,Design,UI/UX Designer
+9.42,Go,Backend,Backend Developer
+6.20,React,Web,Full Stack Developer
+8.94,Data Structures,CP,Competitive Programmer
+7.34,Scikit-learn,AI,Machine Learning Engineer
+9.68,Power BI,Business,Business Analyst
+6.61,Android Studio,Mobile,Android Developer
+8.26,Ansible,DevOps,DevOps Engineer
+7.92,Metasploit,Security,Cybersecurity Analyst
+9.52,C#,Gaming,Game Developer
+6.90,GCP,Cloud,Cloud Engineer
+8.16,Sketch,Design,UI/UX Designer
+7.80,Node.js,Backend,Backend Developer
+9.20,Tableau,Data,Data Analyst
+6.31,Kotlin,Mobile,Android Developer
+8.84,PyTorch,AI,Machine Learning Engineer
+7.22,Vue.js,Frontend,Frontend Developer
+9.56,Jenkins,DevOps,DevOps Engineer
+6.65,Unreal Engine,Gaming,Game Developer
+8.39,AWS,Cloud,Cloud Engineer
+7.11,Nmap,Security,Cybersecurity Analyst
+9.25,Figma,Design,UI/UX Designer
+6.97,Go,Backend,Backend Developer
+8.67,Angular,Web,Full Stack Developer
+7.50,Algorithms,CP,Competitive Programmer
+9.05,TensorFlow,AI,Machine learning Engineer
+6.14,SQL,Business,Business Analyst
+8.79,Java,Mobile,Android Developer
+7.31,Ansible,DevOps,DevOps Engineer
+9.84,Wireshark,Security,Cybersecurity Analyst
+6.41,Unity,Gaming,Game Developer
+8.04,Azure,Cloud,Cloud Engineer
+7.71,Adobe XD,Design,UI/UX Designer
+9.34,Flask,Backend,Backend Developer
+6.81,React,Web,Full Stack Developer
+8.52,Pandas,Data,Data Analyst
+7.16,Kotlin,Mobile,Android Developer
+9.74,TensorFlow,AI,Machine Learning Engineer
+6.57,Vue.js,Frontend,Frontend Developer
+8.96,Terraform,DevOps,DevOps Engineer
+7.61,Unreal Engine,Gaming,Game Developer
+9.12,GCP,Cloud,Cloud Engineer
+7.02,Metasploit,Security,Cybersecurity Analyst
+8.30,Sketch,Design,UI/UX Designer
+7.87,Django,Backend,Backend Developer
+9.44,Angular,Web,Full Stack Developer
+6.26,Data Structures,CP,Competitive Programmer
+8.89,PyTorch,AI,Machine learning Engineer
+7.40,Excel,Business,Business Analyst
+9.58,Java,Mobile,Android Developer
+6.74,Jenkins,DevOps,DevOps Engineer
+8.55,Nmap,Security,Cybersecurity Analyst
+7.99,C#,Gaming,Game Developer
+9.18,AWS,Cloud,Cloud Engineer
+6.50,Figma,Design,UI/UX Designer
+8.74,Node.js,Backend,Backend Developer
+7.25,React,Web,Full Stack Developer
+9.37,SQL,Data,Data Analyst
+6.12,Kotlin,Mobile,Android Developer
+8.64,Scikit-learn,AI,Machine Learning Engineer
+7.04,Angular,Frontend,Frontend Developer
+9.86,Ansible,DevOps,DevOps Engineer
+6.86,Unity,Gaming,Game Developer
+8.46,Azure,Cloud,Cloud Engineer
+7.69,Wireshark,Security,Cybersecurity Analyst
+9.28,Adobe XD,Design,UI/UX Designer
+6.34,Flask,Backend,Backend Developer
+8.91,Vue.js,Web,Full Stack Developer
+7.55,Algorithms,CP,Competitive Programmer
+9.50,TensorFlow,AI,Machine learning Engineer
+6.68,Tableau,Business,Business Analyst
+8.36,XML,Mobile,Android Developer
+7.21,Terraform,DevOps,DevOps Engineer
+9.64,Metasploit,Security,Cybersecurity Analyst
+6.22,Unreal Engine,Gaming,Game Developer
+8.82,GCP,Cloud,Cloud Engineer
+7.94,Sketch,Design,UI/UX Designer
+9.09,Django,Backend,Backend Developer
+6.59,React,Web,Full Stack Developer
+8.60,Pandas,Data,Data Analyst
+7.47,Java,Mobile,Android Developer
+9.94,PyTorch,AI,Machine Learning Engineer
+6.44,Vue.js,Frontend,Frontend Developer
+8.86,Jenkins,DevOps,DevOps Engineer
+7.77,C#,Gaming,Game Developer
+9.32,AWS,Cloud,Cloud Engineer
+6.79,Nmap,Security,Cybersecurity Analyst
+8.22,Figma,Design,UI/UX Designer
+7.10,Node.js,Backend,Backend Developer
+9.42,JavaScript,Web,Full Stack Developer
+6.07,Data Structures,CP,Competitive Programmer
+8.50,Scikit-learn,AI,Machine Learning Engineer
+7.33,Power BI,Business,Business Analyst
+9.72,Kotlin,Mobile,Android Developer
+6.16,Ansible,DevOps,DevOps Engineer
+8.68,Unity,Gaming,Game Developer
+7.83,Azure,Cloud,Cloud Engineer
+9.21,Wireshark,Security,Cybersecurity Analyst
+6.37,Adobe XD,Design,UI/UX Designer
+8.97,Go,Backend,Backend Developer
+7.58,Angular,Web,Full Stack Developer
+9.53,Python,CP,Competitive Programmer
+6.72,PyTorch,AI,Machine Learning Engineer
+8.42,Excel,Business,Business Analyst
+7.28,Android Studio,Mobile,Android Developer
+9.69,Terraform,DevOps,DevOps Engineer
+6.25,Metasploit,Security,Cybersecurity Analyst
+8.77,Unreal Engine,Gaming,Game Developer
+7.88,GCP,Cloud,Cloud Engineer
+9.14,Sketch,Design,UI/UX Designer
+6.63,Java,Backend,Backend Developer
+8.54,React,Web,Full Stack Developer
+7.43,SQL,Data,Data Analyst
+9.88,Kotlin,Mobile,Android Developer
+6.53,TensorFlow,AI,Machine Learning Engineer
+8.80,Vue.js,Frontend,Frontend Developer
+7.73,Jenkins,DevOps,DevOps Engineer
+9.26,C#,Gaming,Game Developer
+6.82,AWS,Cloud,Cloud Engineer
+8.28,Nmap,Security,Cybersecurity Analyst
+7.05,Figma,Design,UI/UX Designer
+9.35,Node.js,Backend,Backend Developer
+6.49,JavaScript,Web,Full Stack Developer
+8.95,Data Structures,CP,Competitive Programmer
+7.51,Scikit-learn,AI,Machine Learning Engineer
+9.60,Tableau,Business,Business Analyst
+6.18,Java,Mobile,Android Developer
+8.72,Ansible,DevOps,DevOps Engineer
+7.98,Wireshark,Security,Cybersecurity Analyst
