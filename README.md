@@ -121,7 +121,7 @@ This project provides a solid foundation, but there are many exciting ways it co
 
 ## 📬 Contact
 
-Yug Jasolilya – [Your Portfolio Website/Link] – [yugjasoliya49@gmail.com]
+Yug Jasolilya – [yugjasoliya49@gmail.com]
 
 Project Link: [https://github.com/yugjasoliya08/Career-Recommender-System](https://github.com/yugjasoliya08/Career-Recommender-System)
 
